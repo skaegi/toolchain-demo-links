@@ -1,5 +1,7 @@
 ## Toolchain Demo Links
-* [Bluemix Devops](https://daily-console.stage1.ng.bluemix.net/devops/)
+* [Stage1 Bluemix Devops](https://daily-console.stage1.ng.bluemix.net/devops/)
+* [Stage1 Bluemix Compute](https://daily-console.stage1.ng.bluemix.net/dashboard/compute)
+* [April Scenarios](https://w3-connections.ibm.com/wikis/home?lang=en-us#!/wiki/W4e7425c664ea_4859_93fb_660b3ab8388b/page/Scenario%20details)
 
 * [![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://daily-console.stage1.ng.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/oneibmcloud/toolchain-demo.git) InterConnect Demo
 
